@@ -4,11 +4,6 @@ HR-Assistant Tool is an Agentic AI system built to automate core HR workflows—
 
 ---
 
-## 🎥 Presentation
-Watch the full project presentation here: **[Human Resource Assistant Tool](https://vaibhav-project.my.canva.site/human-resource-assistant-tool-presentation)**
-
----
-
 ## 🌟 Highlights
 HR-Assistant Tool enables HR teams to:
 
